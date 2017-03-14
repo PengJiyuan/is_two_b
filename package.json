@@ -1,0 +1,19 @@
+{
+  "name": "is_two_b",
+  "version": "1.0.0",
+  "description": "Check if a string is 'bb'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengJiyuan/is_two_b.git"
+  },
+  "author": "PengJiyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PengJiyuan/is_two_b/issues"
+  },
+  "homepage": "https://github.com/PengJiyuan/is_two_b#readme"
+}

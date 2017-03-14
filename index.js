@@ -1,0 +1,1 @@
+module.exports = require('./is_2b.js');
