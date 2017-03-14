@@ -1,4 +1,6 @@
 # is_two_b
+
+[![NPM Version][npm-image]][npm-url]
 Check if a string is 'bb'.
 
 ## Install
@@ -59,3 +61,5 @@ is2b('b6s').unstrict().log('Korea').two_b(); // 축하해, 두 개의 b!
 * 芬兰语 -- Finnish
 
 ## [MIT](./LICENSE)
+[npm-image]: https://img.shields.io/npm/v/is_two_b.svg
+[npm-url]: https://npmjs.org/package/is_two_b
