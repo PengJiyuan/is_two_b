@@ -2,7 +2,7 @@
 
 [![NPM Version][npm-image]][npm-url]
 
-Check if a string is 'bb'.orz
+Check if something is 'bb'.orz
 
 ## Install
 ```bash
