@@ -1,6 +1,7 @@
 # is_two_b
 
 [![NPM Version][npm-image]][npm-url]
+
 Check if a string is 'bb'.
 
 ## Install
