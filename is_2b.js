@@ -48,7 +48,6 @@ var is_2b = function(something) {
 
     // Array
     II: function() {
-      console.log('a')
       let ret = strict ? something.join('').toLowerCase() === 'bb' : this.unstrictII();
       this.consolelog(ret);
       return ret;
