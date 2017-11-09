@@ -1,10 +1,10 @@
 {
   "name": "is_two_b",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if a string is 'bb'.",
   "main": "index.js",
   "scripts": {
-    "release": "release-it"
+    "release": "release-it --debug --verbose"
   },
   "repository": {
     "type": "git",
