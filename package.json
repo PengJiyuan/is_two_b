@@ -1,6 +1,6 @@
 {
   "name": "is_two_b",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if a string is 'bb'.",
   "main": "index.js",
   "scripts": {
